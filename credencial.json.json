@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cadastrocolab",
+  "private_key_id": "04e2f9cafd4e8bdce8c8111efc7e80feb3add5b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbaty8PCBTJ8So\npk/kaA8NBTj6org6iHL2T0O9SQ+Egft92txCDFWWOeZczYnBiLaUekzfVVqb0OHS\n9K2CipZhyulZbOZnIYLcLc/8bdKzbIVr2oKRvMwO3GydyzUT9j2oJ6KsLKMqcraT\nvDxrWDElh9PaULrtgCPOd8YhK8mGbGONVOmRu4DFcU0QGnTgKFQjh8BH/yc/FXMy\nMSK2bYHskkNfVnUp7clU72SqEnlS1rCI9DlmbvmdZrtSjgVtiCBcEbrYFpF8IGTm\n8yQgxF49UE2bjfmm7odWX9Bp057Abu/pLDEGg4913xGKsOUw0H4cAzrOvOVcqPY0\nC401Ty93AgMBAAECggEANEiDz3MusKq9NrsUP1NeVNP/8hkRfuduPTw3HpNYfAw6\nLYGV/UYm+K2ruGaQxCGYwmROPgd5vtdLUOts/3Bd3LIlRCclb2ZPnoBu6o2Lhz6n\nt7u/lwV7ZDh09bRpu7hnz4zd5avyjBIhJ5v4e2gkyGpkM5pa+BDWetvCNGCFoAmK\nFe4djgv8IlzcTWABJ6cJiuUkW2xf/GGsxA7o9L/a0WEJXzQV0lJew1ggo+wPlp6M\nS0B343MQzDBQ4Rud8AuQpTDGwPUGJQtyTRlYd2PnVWNoNwcuQwUSbT4MshRzQyGg\nPq+IJfRqxf2uxOb0Ea59gb6pbFFLsME6h9ac+SwzQQKBgQDTxDySOPrUUmK4Brwx\nqvjbTMKbKgthqppwpyqo9DjZ+tIYirXsoDR2WsnJJ33LG0p/puKOX/Ph/s0NoIV3\nrzmrSBlnBVy7wiSaqxwzcg97wiT5PnjSrt5LdtaNw2Keky7jhs9yLs1JRmqVC1Sp\n9tK5x3TxF5TVAr9zoJ6/g8LLIQKBgQC74Xod0jcBQZd/eKBoTI6pS3VS/9LHUxaR\neQryJrS2m2Wua+udBxR/QVyiguLa79JKei7kic7d5UFcNlRpVV3zZDB7SEW03XA6\nBgM1Xi0XOqKeoz8l2hoKW5ybHfsO4cDN9+7v2W+BP6XZjq3cZjCijK8ilbH8YPYX\n+yNFCiR/lwKBgQCwTbYn/qxFTHnHwEO6Dh+1ZEi4qd5j54dAtsv7cahLQljb+c/Q\nOuiyiI9qmyhNimERubzwz83ZnyrUZ4n2xLl8ckBD1uEHqHCVHFQUOKfPXyktIOey\nb8e+iCfESqC2aM8mujvHUlOy558gixhnkIiMBxTDC+DrHqiJ+XVw+J+aQQKBgFGl\naqwK7lxdZLjAcvTgUB7B6/plsfNs6CHPuDIDIAU7ArUJsRpMOVwTy23T80GxdnFn\nJ3mpaXyEZCLueUBNGMbsgyUQAzrWAC827a4DfxTZJlJKHucUILzfku7V2IRfFqpr\nVCpnE03XmvswRd3BiuEYwgMFipNij49cU7ds8O+BAoGAcpPwe8wAKukRNqNgbs2X\nGPMg6tat+4N3Sd/sN1rMQlxFj8GrqOXlKMGa+76buGSOdnIElAuC6Sy6ICXeAo25\nRGTIs4wcsuRXigDws50lxCHnM1MIagrQtYIOLPtVQi/bPQFhMMk1+x1d9pePOBVJ\n1q+rdzBCKAucoYskYID0XOo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "colab-integrador@cadastrocolab.iam.gserviceaccount.com",
+  "client_id": "111030717397777753729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/colab-integrador%40cadastrocolab.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
